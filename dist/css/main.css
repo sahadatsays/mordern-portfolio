@@ -246,6 +246,11 @@ main {
     main .lg-head {
       line-height: 1;
       margin-bottom: 1rem; }
+  h1, h2, h3 {
+    margin: 0;
+    font-weight: 400; }
+    h1.lg-heading, h2.lg-heading, h3.lg-heading {
+      font-size: 4rem; }
   ul.menu-nav, div.menu-branding {
     float: none;
     width: 100%;
