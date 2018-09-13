@@ -1,0 +1,47 @@
+[33mcommit 40a610caab1ae4aeeea041a1fa9e60e6726799cb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Sep 13 22:08:58 2018 +0600
+
+    working about page and add function set-text-color
+
+[33mcommit 751dcc9a96a3a781236f9179059f43143fc37289[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 15:44:13 2018 +0600
+
+    added media queries and made overlay responsive
+
+[33mcommit 2c6e436d01ebd08ff795e19f9a515f3964657874[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 15:09:49 2018 +0600
+
+    Menu Overlay complete
+
+[33mcommit d2a86b3febcbe4ca19ce824f3faf8fa8e5ce3134[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 14:32:44 2018 +0600
+
+    Menu Button javaScript rotated
+
+[33mcommit 7419eb444a55d2147cdc7d49c73be04565edd8a4[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 13:56:59 2018 +0600
+
+    parse config.scss and variables.scss
+
+[33mcommit df125a9106a8760e8e8519b0a2e7231a12c51b09[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 13:50:22 2018 +0600
+
+    remove overlay and add &after:
+
+[33mcommit 9f9519876f6999f912a5f72fd133aef1609c33c8[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 13:48:33 2018 +0600
+
+    Use Overlay to heading for backgorund imagage
+
+[33mcommit fc9c1f42e3c4e648fbe17e654693aae27b1468cf[m
+Author: sahadatsays <sakib2ripat1@gmail.com>
+Date:   Thu Aug 30 12:56:01 2018 +0600
+
+    initial workflow setup
